@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReservationForm renders with all data passed in correctlly 1`] = `
+<form
+  className="reserv-form"
+>
+  <Input
+    action={[Function]}
+    currentValue=""
+    key="name"
+    type="name"
+  />
+  <Input
+    action={[Function]}
+    currentValue=""
+    key="date"
+    type="date"
+  />
+  <Input
+    action={[Function]}
+    currentValue=""
+    key="time"
+    type="time"
+  />
+  <Input
+    action={[Function]}
+    currentValue=""
+    key="number"
+    type="number"
+  />
+  <button
+    onClick={[Function]}
+  >
+    make reservation
+  </button>
+</form>
+`;
