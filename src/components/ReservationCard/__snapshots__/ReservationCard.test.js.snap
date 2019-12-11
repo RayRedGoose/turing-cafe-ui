@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReservationCard renders with all data passed in correctlly 1`] = `
+<section
+  className="reserv-card"
+  id={1}
+>
+  <h1>
+    Ray
+  </h1>
+  <p>
+    12/12
+  </p>
+  <p>
+    5:00
+  </p>
+  <p>
+    Number of guests: 
+    5
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    cancel
+  </button>
+</section>
+`;
