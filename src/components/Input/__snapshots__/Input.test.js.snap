@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input renders with all data passed in correctlly 1`] = `
+<input
+  className="reserv-input"
+  name="name"
+  onChange={[Function]}
+  placeholder="name"
+  type="text"
+  value="Ray"
+/>
+`;
