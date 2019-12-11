@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with all data passed in correctlly 1`] = `
+<section
+  className="reserv-board"
+>
+  <ReservationCard
+    info={
+      Object {
+        "date": "12/12",
+        "id": 1,
+        "name": "Ray",
+        "number": "5",
+        "time": "5:00",
+      }
+    }
+    key="1"
+    removeReserv={[MockFunction]}
+  />
+</section>
+`;
